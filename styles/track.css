@@ -4,10 +4,19 @@
     min-height: 100vh;
     padding: 170px 0 50px 0;
 }
+
+.container {
+    background: #F4F4F4 url("../images/track-bg.png");
+    background-size: cover;
+    min-height: 100vh;
+    padding: 170px 0 50px 0;
+}
+
 .track-content {
     width: 593px;
     margin: 0 auto;
 }
+
 .track-card {
     width: 100%;
     border-radius: 18px;
@@ -37,6 +46,7 @@
 .track-field {
     margin-bottom: 10px;
 }
+
 .track-result {
     margin-top: 5px;
     display: none;
